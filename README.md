@@ -2,18 +2,20 @@
 Autor: Patricia Aros 
 
 ##  📊 Descripción
-Este proyecto tiene como objetivo analizar el desempeño comercial de cuatro tiendas, para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento.Analizando datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store.
+Este proyecto tiene como objetivo analizar el desempeño comercial de cuatro tiendas, para ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento.
+
+Para el análisis se utilizará el registro de ventas, rendimiento y precios de las 4 tiendas de Alura Store.
 
 ## 🎯 Objetivo
-Determinar qué tienda presenta el modelo comercial más eficiente y cuál podría considerarse menos competitiva dentro del conjunto analizado.
+Determinar la tienda presenta el modelo comercial más eficiente y cuál podría considerarse menos competitiva dentro del conjunto analizado.
 
 ## Metodología
 Dado que todas las tiendas presentan igual cantidad de ventas, el análisis se centra en:
 
-Diferencias en precio promedio.
-Distribución de precios.
-Participación competitiva por categoría.
-Relación entre ingresos y satisfacción.
+- Diferencias en precio promedio.
+- Distribución de precios.
+- Participación competitiva por categoría.
+- Relación entre ingresos y satisfacción.
 
 
 ## 🔍 Principales Hallazgos
@@ -28,5 +30,5 @@ Existen diferencias en liderazgo por categoría.
 - Google Colab
 
 ## Posibles Mejoras Futuras
-Analizar elasticidad de precios
-Aplicar modelos predictivos
+- Analizar elasticidad de precios
+- Aplicar modelos predictivos
